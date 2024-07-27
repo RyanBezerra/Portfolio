@@ -1,0 +1,78 @@
+html{
+    background: #171717 !important;
+    font-size: 62.5%;
+}
+
+header{
+    font-family: 'DM Sans';
+    background: #171717 !important;
+}
+
+header h1{
+    /* Ryan Nascimento */
+
+    font-style: normal;
+    font-weight: 700;
+    line-height: 47px;
+    color: #FFFFFF;
+
+}
+
+body {
+    font-family: 'DM Sans';
+    background: #171717 !important;
+}
+
+body > div:first-of-type {
+    font-family: 'DM Sans';
+}
+
+body > div:first-of-type h1 {
+    font-size: 2.5rem;
+    color: #ffffff;
+}
+
+body > div:first-of-type p {
+    font-size: 1.2rem;
+    color: #828282;
+}
+
+#botãolermais {
+    --bs-btn-padding-y: 0.7rem;
+    --bs-btn-padding-x: 2.7rem;
+    --bs-btn-font-size: 1.5rem;
+}
+
+#custom-img-border {
+    box-sizing: border-box;
+    border: 15px solid rgba(30, 29, 29, 0.2);
+    outline: 1px solid #1E1D1D; /* Borda externa */
+}
+
+.w-40 {
+    width: 80% !important; /* Ajusta a largura para telas pequenas */
+}
+
+.img-container {
+    position: relative;
+    top: 0; /* Ajusta a posição inicial */
+}
+
+@media (min-width: 768px) {
+    body > div:first-of-type h1 {
+        font-size: 3.8rem;
+    }
+
+    body > div:first-of-type p {
+        font-size: 1.8rem;
+    }
+
+    .w-40 {
+        width: 40% !important;
+    }
+
+    .img-container {
+        position: relative;
+        top: -350px; 
+    }
+}

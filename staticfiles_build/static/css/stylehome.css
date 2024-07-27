@@ -1,0 +1,42 @@
+html{
+    background: #171717 !important;
+    font-size: 62.5%;
+}
+
+header{
+    background: #171717 !important;
+}
+
+body{
+    background: #171717 !important;
+}
+
+header h1{
+    /* Ryan Nascimento */
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3.6rem;
+    line-height: 47px;
+
+    color: #FFFFFF;
+
+}
+
+header p{
+    /* Sobre mim */
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.8rem;
+    line-height: 23px;
+
+    color: #FFFFFF;
+
+}
+
+
+
+

@@ -67,6 +67,22 @@ body > div:first-of-type p {
         --bs-btn-padding-x: 1.1rem;
         --bs-btn-font-size: 1.1rem;
     }
+    #sobre{
+        font-size: 3rem;
+    }
+    #apresentação{
+        font-size: 1.2rem;
+    }
+    #circuloss1{
+        margin-top: 4rem;
+        gap: 1rem;
+    }
+    #circulos{
+        max-width: 4rem;
+    }
+    #circulosp{
+        font-size: 0.5rem;
+    }
 }
 @media (min-width: 577px) and (max-width: 768px) {
     body > div:first-of-type h1 {
@@ -95,6 +111,22 @@ body > div:first-of-type p {
         --bs-btn-padding-x: 1.5rem;
         --bs-btn-font-size: 1.5rem;
     }
+    #sobre{
+        font-size: 3rem;
+    }
+    #apresentação{
+        font-size: 1.5rem;
+    }
+    #circuloss1{
+        margin-top: 4rem;
+        gap: 3rem;
+    }
+    #circulos{
+        max-width: 5rem;
+    }
+    #circulosp{
+        font-size: 1.2rem;
+    }
 }
 @media (min-width: 769px) and (max-width: 1024px) {
     body > div:first-of-type h1 {
@@ -117,6 +149,22 @@ body > div:first-of-type p {
         --bs-btn-padding-x: 2.5rem;
         --bs-btn-font-size: 1.5rem;
 
+    }
+    #sobre{
+        font-size: 5rem;
+    }
+    #apresentação{
+        font-size: 1.5rem;
+    }
+    #circuloss1{
+        margin-top: 8rem;
+        gap: 10rem;
+    }
+    #circulos{
+        max-width: 6rem;
+    }
+    #circulosp{
+        font-size: 1.2rem;
     }
 }
 
@@ -146,5 +194,21 @@ body > div:first-of-type p {
         --bs-btn-padding-y: 0.7rem;
         --bs-btn-padding-x: 2.5rem;
         --bs-btn-font-size: 1.5rem;
+    }
+    #sobre{
+        font-size: 5rem;
+    }
+    #apresentação{
+        font-size: 1.5rem;
+    }
+    #circuloss1{
+        margin-top: 8rem;
+        gap: 20rem;
+    }
+    #circulos{
+        max-width: 6rem;
+    }
+    #circulosp{
+        font-size: 1.2rem;
     }
 }

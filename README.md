@@ -91,7 +91,7 @@
 
 [![image](https://github.com/user-attachments/assets/5c1e8854-74ef-499f-b125-49790865ece3)
 )
-](https://portfolio-git-main-ryans-projects-da8a15f6.vercel.app)
+(https://portfolio-git-main-ryans-projects-da8a15f6.vercel.app)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 

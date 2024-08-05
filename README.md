@@ -89,8 +89,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][![image](https://github.com/user-attachments/assets/d4bc3051-48f7-480f-816e-5a1eca7b3e93)
-]](https://portfolio-git-main-ryans-projects-da8a15f6.vercel.app)
+[![image](https://github.com/user-attachments/assets/d4bc3051-48f7-480f-816e-5a1eca7b3e93)
+](https://portfolio-git-main-ryans-projects-da8a15f6.vercel.app)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 

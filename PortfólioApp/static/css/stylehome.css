@@ -40,10 +40,9 @@ body > div:first-of-type p {
     width: 40% !important;
 }
 
-/* Media Queries para Responsividade */
 @media (max-width: 576px) {
     body > div:first-of-type h1 {
-        font-size: 2rem; /* Ajuste para telas muito pequenas */
+        font-size: 2rem; 
     }
     body > div:first-of-type p {
         font-size: 1rem;
@@ -56,31 +55,30 @@ body > div:first-of-type p {
         width: 20rem;
         height: 20rem;
     }
-    #botãobaixar{
-        --bs-btn-padding-y: 0.2rem;
-        --bs-btn-padding-x: 1.1rem;
-        --bs-btn-font-size: 1.1rem;
-
-    }
-    #botãolermais{
+    #botãobaixar {
         --bs-btn-padding-y: 0.2rem;
         --bs-btn-padding-x: 1.1rem;
         --bs-btn-font-size: 1.1rem;
     }
-    #sobre{
+    #botãolermais {
+        --bs-btn-padding-y: 0.2rem;
+        --bs-btn-padding-x: 1.1rem;
+        --bs-btn-font-size: 1.1rem;
+    }
+    #sobre {
         font-size: 3rem;
     }
-    #apresentação{
+    #apresentação {
         font-size: 1.2rem;
     }
-    #circuloss1{
+    #circuloss1 {
         margin-top: 4rem;
         gap: 1rem;
     }
-    #circulos{
+    #circulos {
         max-width: 4rem;
     }
-    #circulosp{
+    #circulosp {
         font-size: 0.5rem;
     }
 }
@@ -100,31 +98,30 @@ body > div:first-of-type p {
         height: 30rem;
         margin-left: 5rem;
     }
-    #botãobaixar{
-        --bs-btn-padding-y: 0.5rem;
-        --bs-btn-padding-x: 1.5rem;
-        --bs-btn-font-size: 1.5rem;
-
-    }
-    #botãolermais{
+    #botãobaixar {
         --bs-btn-padding-y: 0.5rem;
         --bs-btn-padding-x: 1.5rem;
         --bs-btn-font-size: 1.5rem;
     }
-    #sobre{
+    #botãolermais {
+        --bs-btn-padding-y: 0.5rem;
+        --bs-btn-padding-x: 1.5rem;
+        --bs-btn-font-size: 1.5rem;
+    }
+    #sobre {
         font-size: 3rem;
     }
-    #apresentação{
+    #apresentação {
         font-size: 1.5rem;
     }
-    #circuloss1{
+    #circuloss1 {
         margin-top: 4rem;
         gap: 3rem;
     }
-    #circulos{
+    #circulos {
         max-width: 5rem;
     }
-    #circulosp{
+    #circulosp {
         font-size: 1.2rem;
     }
 }
@@ -144,33 +141,31 @@ body > div:first-of-type p {
         height: 50rem;
         margin-left: 0rem;
     }
-    #botãobaixar{
+    #botãobaixar {
         --bs-btn-padding-y: 0.7rem;
         --bs-btn-padding-x: 2.5rem;
         --bs-btn-font-size: 1.5rem;
-
     }
-    #sobre{
+    #sobre {
         font-size: 5rem;
     }
-    #apresentação{
+    #apresentação {
         font-size: 1.5rem;
     }
-    #circuloss1{
+    #circuloss1 {
         margin-top: 8rem;
         gap: 10rem;
     }
-    #circulos{
+    #circulos {
         max-width: 6rem;
     }
-    #circulosp{
+    #circulosp {
         font-size: 1.2rem;
     }
 }
-
 @media (min-width: 1025px) {
     body > div:first-of-type h1 {
-        font-size: 5rem; /* Ajuste para telas médias a grandes */
+        font-size: 5rem; /* Ajuste para telas grandes */
     }
     body > div:first-of-type p {
         font-size: 2.4rem;
@@ -184,31 +179,30 @@ body > div:first-of-type p {
         height: 50rem;
         margin-left: 0rem;
     }
-    #botãobaixar{
-        --bs-btn-padding-y: 0.7rem;
-        --bs-btn-padding-x: 2.5rem;
-        --bs-btn-font-size: 1.5rem;
-
-    }
-    #botãolermais{
+    #botãobaixar {
         --bs-btn-padding-y: 0.7rem;
         --bs-btn-padding-x: 2.5rem;
         --bs-btn-font-size: 1.5rem;
     }
-    #sobre{
+    #botãolermais {
+        --bs-btn-padding-y: 0.7rem;
+        --bs-btn-padding-x: 2.5rem;
+        --bs-btn-font-size: 1.5rem;
+    }
+    #sobre {
         font-size: 5rem;
     }
-    #apresentação{
+    #apresentação {
         font-size: 1.5rem;
     }
-    #circuloss1{
+    #circuloss1 {
         margin-top: 8rem;
         gap: 20rem;
     }
-    #circulos{
+    #circulos {
         max-width: 6rem;
     }
-    #circulosp{
+    #circulosp {
         font-size: 1.2rem;
     }
 }

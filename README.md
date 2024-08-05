@@ -89,7 +89,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![image](![image](https://github.com/user-attachments/assets/a79b52a4-7d68-4031-a5e5-458ca9194955)
+[![![image](https://github.com/user-attachments/assets/5c1e8854-74ef-499f-b125-49790865ece3)
+]
 )
 ](https://portfolio-git-main-ryans-projects-da8a15f6.vercel.app)
 

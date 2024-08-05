@@ -48,10 +48,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Documentação Portfólio</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Um portfólio que apresenta os softwares mais significativos que desenvolvi, acompanhado de explicações detalhadas sobre o processo de desenvolvimento de cada um.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />

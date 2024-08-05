@@ -25,6 +25,20 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+[contributors-shield]: https://img.shields.io/github/contributors/RyanBezerra/Portfolio.svg
+[contributors-url]: https://github.com/RyanBezerra/Portfolio/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/RyanBezerra/Portfolio.svg
+[forks-url]: https://github.com/RyanBezerra/Portfolio/network/members
+[stars-shield]: https://img.shields.io/github/stars/RyanBezerra/Portfolio.svg
+[stars-url]: https://github.com/RyanBezerra/Portfolio/stargazers
+[issues-shield]: https://img.shields.io/github/issues/RyanBezerra/Portfolio.svg
+[issues-url]: https://github.com/RyanBezerra/Portfolio/issues
+[license-shield]: https://img.shields.io/github/license/RyanBezerra/Portfolio.svg
+[license-url]: https://github.com/RyanBezerra/Portfolio/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-RyanBezerra-blue
+[linkedin-url]: https://www.linkedin.com/in/ryanbezerra/
+
+
 
 
 <!-- PROJECT LOGO -->

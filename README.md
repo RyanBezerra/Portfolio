@@ -113,6 +113,7 @@ Nesta seção estão as tecnologias que usei para desenvolver o site.
 * [Django](https://www.djangoproject.com)
 * [Python](https://www.python.org)
 * [Vercel](https://vercel.com)
+* [Figma](https://figma.com)
 
 
 

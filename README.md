@@ -179,91 +179,81 @@ _Below is an example of how you can instruct your audience on installing and set
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Uso
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Se você é um desenvolvedor e deseja utilizar meu projeto como um template para o seu portfólio, sinta-se à vontade para fazê-lo. Todos os softwares listados na aba "Macro" do site estão disponíveis para uso. Caso precise de um software personalizado ou de ajustes específicos nos já disponíveis, não hesite em me contatar pelo e-mail ou WhatsApp.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Readme detalhado para ser atualizado constantemente
+- [ ] Responsividade
+- [ ] Componentização
+- [x] Hospedar site em produção
+- [x] Design no figma
+- [ ] Aba macros
+- [ ] Explicação dos projetos desenvolvidos
+- [ ] Documentação no codigo-fonte
+- [ ] Site 100% pronto para monitor 1920x1080
+- [ ] Suporte multi-língua
+    - [x] Português-Brasil
+    - [ ] English
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribuição
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Embora eu tenha desenvolvido todo o conteúdo do projeto, incluindo o design, é importante reconhecer que o site só foi possível graças aos designers que disponibilizam templates gratuitos e abertos ao público na aba de comunidade do Figma, como:
+*Oyindamola
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Se você tiver qualquer observação sobre o site ou sugestões de melhorias, ficarei feliz em ouvir sua opinião. Não hesite em me contatar — seu nome será devidamente reconhecido aqui!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
 
 
 <!-- LICENSE -->
-## License
+## Licença
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Não tem, isso aqui é apenas uma questão de boas praticas
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
 
 
 <!-- CONTACT -->
-## Contact
+## Contato
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Ryan do Nascimento Bezerra - [ryan-nascimento-bezerra](https://www.linkedin.com/in/ryan-nascimento-bezerra/) - ryandonascimentobezerra@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Agradecimentos
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Alguns recursos uteis que eu gostaria de agradecer
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Documentação do bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+* [Figma template portfólio](https://www.figma.com/design/JQBde0k47aMgwA1MzeOLwy/Portfolio-(Community)?node-id=0-1&t=1OxN6tJ80EGuMrlO-0)
+* [Vercel para hospedagem gratuita](https://vercel.com)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
 
 

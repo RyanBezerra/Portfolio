@@ -71,16 +71,16 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Pré-requesitos</a></li>
+        <li><a href="#installation">Instalação</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage">Uso</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contributing">Contribuição</a></li>
+    <li><a href="#license">Licença</a></li>
+    <li><a href="#contact">Contato</a></li>
+    <li><a href="#acknowledgments">Agradecimentos</a></li>
   </ol>
 </details>
 
@@ -92,16 +92,14 @@
 [![image](https://github.com/user-attachments/assets/9e2800a8-1676-4c1b-a64e-2b3ed1a09565
 )](https://portfolio-git-main-ryans-projects-da8a15f6.vercel.app)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Este é o meu site de portfólio pessoal, desenvolvido com o propósito de facilitar o meu marketing pessoal.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Pontos importantes:
+* No site, estão centralizados os principais projetos que desenvolvi, juntamente com explicações detalhadas sobre seu funcionamento e desenvolvimento.
+* Se desejar baixar algum projeto do site, sua execução será da forma mais simples possível: um executável. Não será necessário instalar bibliotecas nem digitar linhas de comando no terminal, basta baixar e executar.
+* As explicações sobre funcionalidade e desenvolvimento são apresentadas por meio de vídeos gravados por mim.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Infelizmente, nem tudo pode ser simplificado ao extremo. Para testar alguns macros ou bots, será necessário disponibilizar um ambiente com o problema que o macro resolverá. O mesmo vale para os vídeos, que podem durar de 10 minutos a 1 ou 2 horas, dependendo da complexidade do código e do tempo necessário para explicá-lo detalhadamente.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

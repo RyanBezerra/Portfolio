@@ -109,7 +109,7 @@ Infelizmente, nem tudo pode ser simplificado ao extremo. Para testar alguns macr
 
 Nesta seção estão as tecnologias que usei para desenvolver o site.
 
-* <a href="https://getbootstrap.com" target="_blank"><img src="https://github.com/user-attachments/assets/abb72fd2-f7b6-46c5-87f4-e13efb8e2836" alt="Bootstrap" width="32" /></a>
+* <a href="https://getbootstrap.com" target="_blank"><img src="https://github.com/user-attachments/assets/abb72fd2-f7b6-46c5-87f4-e13efb8e2836" alt="Bootstrap" width="64" /></a>
 * [![Django][DjangoProject.com]][Django-url]
 * [![Python][Python.org]][Python-url]
 * [![Vercel][Vercel.com]][Vercel-url]

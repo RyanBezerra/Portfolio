@@ -117,7 +117,7 @@ Nesta seção estão as tecnologias que usei para desenvolver o site.
 * [![Python][Python.org]][Python-url]
 * [![Vercel][Vercel.com]][Vercel-url]
 
-[Bootstrap.com]: https://example.com/bootstrap-icon.png
+[Bootstrap.com]: ![image](https://github.com/user-attachments/assets/241b654f-ec35-4920-ba32-fe11407b8fc4)
 [DjangoProject.com]: https://example.com/django-icon.png
 [Python.org]: https://example.com/python-icon.png
 [Vercel.com]: https://example.com/vercel-icon.png

@@ -110,10 +110,23 @@ Infelizmente, nem tudo pode ser simplificado ao extremo. Para testar alguns macr
 Nessa seção está as tecnologias que usei para desenvolver o site.
 
 
+Nesta seção estão as tecnologias que usei para desenvolver o site.
+
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![Django][DjangoProject.com]][Django-url]
 * [![Python][Python.org]][Python-url]
 * [![Vercel][Vercel.com]][Vercel-url]
+
+[Bootstrap.com]: https://example.com/bootstrap-icon.png
+[DjangoProject.com]: https://example.com/django-icon.png
+[Python.org]: https://example.com/python-icon.png
+[Vercel.com]: https://example.com/vercel-icon.png
+
+[Bootstrap-url]: https://getbootstrap.com
+[Django-url]: https://www.djangoproject.com
+[Python-url]: https://www.python.org
+[Vercel-url]: https://vercel.com
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -105,18 +105,15 @@ Infelizmente, nem tudo pode ser simplificado ao extremo. Para testar alguns macr
 
 
 
-### Built With
+### Desenvolvido com:
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Nessa seção está as tecnologias que usei para desenvolver o site.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
+
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Django][DjangoProject.com]][Django-url]
+* [![Python][Python.org]][Python-url]
+* [![Vercel][Vercel.com]][Vercel-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -69,7 +69,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Introdução</a>
       <ul>
         <li><a href="#prerequisites">Pré-requesitos</a></li>
         <li><a href="#installation">Instalação</a></li>
@@ -101,13 +101,14 @@ Pontos importantes:
 
 Infelizmente, nem tudo pode ser simplificado ao extremo. Para testar alguns macros ou bots, será necessário disponibilizar um ambiente com o problema que o macro resolverá. O mesmo vale para os vídeos, que podem durar de 10 minutos a 1 ou 2 horas, dependendo da complexidade do código e do tempo necessário para explicá-lo detalhadamente.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
 
 
 ### Desenvolvido com:
 
 Nesta seção estão as tecnologias que usei para desenvolver o site.
+
 
 * [Bootstrap](https://getbootstrap.com)
 * [Django](https://www.djangoproject.com)
@@ -117,12 +118,12 @@ Nesta seção estão as tecnologias que usei para desenvolver o site.
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Introdução
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.

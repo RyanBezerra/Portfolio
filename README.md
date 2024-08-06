@@ -112,9 +112,11 @@ Nesta seção estão as tecnologias que usei para desenvolver o site.
 
 * [Bootstrap](https://getbootstrap.com)
 * [Django](https://www.djangoproject.com)
-* [Python](https://www.python.org)
 * [Vercel](https://vercel.com)
 * [Figma](https://figma.com)
+* [Python](https://www.python.org)
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 
 

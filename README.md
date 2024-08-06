@@ -107,17 +107,13 @@ Infelizmente, nem tudo pode ser simplificado ao extremo. Para testar alguns macr
 
 ### Desenvolvido com:
 
-Nessa seção está as tecnologias que usei para desenvolver o site.
-
-
 Nesta seção estão as tecnologias que usei para desenvolver o site.
 
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* <a href="https://getbootstrap.com" target="_blank"><img src="https://github.com/user-attachments/assets/241b654f-ec35-4920-ba32-fe11407b8fc4" alt="Bootstrap" width="16" /></a>
 * [![Django][DjangoProject.com]][Django-url]
 * [![Python][Python.org]][Python-url]
 * [![Vercel][Vercel.com]][Vercel-url]
 
-[Bootstrap.com]: https://github.com/user-attachments/assets/241b654f-ec35-4920-ba32-fe11407b8fc4
 [DjangoProject.com]: https://example.com/django-icon.png
 [Python.org]: https://example.com/python-icon.png
 [Vercel.com]: https://example.com/vercel-icon.png
@@ -126,6 +122,7 @@ Nesta seção estão as tecnologias que usei para desenvolver o site.
 [Django-url]: https://www.djangoproject.com
 [Python-url]: https://www.python.org
 [Vercel-url]: https://vercel.com
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

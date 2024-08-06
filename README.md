@@ -109,7 +109,7 @@ Infelizmente, nem tudo pode ser simplificado ao extremo. Para testar alguns macr
 
 Nesta seção estão as tecnologias que usei para desenvolver o site.
 
-* [Django](https://getbootstrap.com)
+* [Bootstrap](https://getbootstrap.com)
 * [Django](https://www.djangoproject.com)
 * [Python](https://www.python.org)
 * [Vercel](https://vercel.com)

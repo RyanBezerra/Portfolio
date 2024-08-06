@@ -149,6 +149,17 @@ Estando na pasta do projeto (\Portfólio), você instalará todos os requisitos 
   ```sh
   activate
   ```
+* Com a venv ativada, retorne ao endereço principal do projeto e dê o runserver:
+```sh
+  cd..
+  ```
+```sh
+  cd..
+  ```
+```sh
+  py manage.py runserver
+  ```
+* E pronto, agora é só abrir a url no navegador
 
 ### Installation
 

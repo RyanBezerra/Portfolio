@@ -36,7 +36,7 @@
 [license-shield]: https://img.shields.io/github/license/RyanBezerra/Portfolio.svg
 [license-url]: https://github.com/RyanBezerra/Portfolio/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-RyanBezerra-blue
-[linkedin-url]: https://www.linkedin.com/in/ryanbezerra/
+[linkedin-url]: https://www.linkedin.com/in/ryan-nascimento-bezerra/
 
 
 

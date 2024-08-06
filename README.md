@@ -127,15 +127,27 @@ Nesta seção estão as tecnologias que usei para desenvolver o site.
 <!-- GETTING STARTED -->
 ## Introdução
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Caso queira pegar os arquivos do projeto para rolar localmente, siga as instruções abaixo.
 
-### Prerequisites
+### Pré-requesitos
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Estando na pasta do projeto (\Portfólio), você instalará todos os requisitos com este comando:
+* Instalando dependências contidas no requirements.txt:
   ```sh
-  npm install npm@latest -g
+  pip install -r requirements.txt
+  ```
+  
+* Após a instalação das dependências, você precisará ativar a venv:
+  ```sh
+  cd venv/Scripts
+  ```
+  Se o terminal for PowerShell:
+  ```sh
+  Activate.ps1
+  ```
+  Se o terminal for Prompt de Comandos:
+  ```sh
+  activate
   ```
 
 ### Installation

@@ -18,12 +18,26 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+[![Contribuidores][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+[contributors-shield]: https://img.shields.io/github/contributors/RyanBezerra/Portfolio.svg
+[contributors-url]: https://github.com/RyanBezerra/Portfolio/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/RyanBezerra/Portfolio.svg
+[forks-url]: https://github.com/RyanBezerra/Portfolio/network/members
+[stars-shield]: https://img.shields.io/github/stars/RyanBezerra/Portfolio.svg
+[stars-url]: https://github.com/RyanBezerra/Portfolio/stargazers
+[issues-shield]: https://img.shields.io/github/issues/RyanBezerra/Portfolio.svg
+[issues-url]: https://github.com/RyanBezerra/Portfolio/issues
+[license-shield]: https://img.shields.io/github/license/RyanBezerra/Portfolio.svg
+[license-url]: https://github.com/RyanBezerra/Portfolio/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-RyanBezerra-blue
+[linkedin-url]: https://www.linkedin.com/in/ryan-nascimento-bezerra/
+
 
 
 
@@ -34,19 +48,11 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Documentação Portfólio</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Um portfólio que apresenta os softwares mais significativos que desenvolvi, acompanhado de explicações detalhadas sobre o processo de desenvolvimento de cada um.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -54,82 +60,106 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Sumário</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Sobre o Projeto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Desenvolvido com:</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Introdução</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Pré-requesitos</a></li>
+        <li><a href="#installation">Instalação</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage">Uso</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contributing">Contribuição</a></li>
+    <li><a href="#license">Licença</a></li>
+    <li><a href="#contact">Contato</a></li>
+    <li><a href="#acknowledgments">Agradecimentos</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre o Projeto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![image](https://github.com/user-attachments/assets/9e2800a8-1676-4c1b-a64e-2b3ed1a09565
+)](https://portfolio-git-main-ryans-projects-da8a15f6.vercel.app)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Este é o meu site de portfólio pessoal, desenvolvido com o propósito de facilitar o meu marketing pessoal.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Pontos importantes:
+* No site, estão centralizados os principais projetos que desenvolvi, juntamente com explicações detalhadas sobre seu funcionamento e desenvolvimento.
+* Se desejar baixar algum projeto do site, sua execução será da forma mais simples possível: um executável. Não será necessário instalar bibliotecas nem digitar linhas de comando no terminal, basta baixar e executar.
+* As explicações sobre funcionalidade e desenvolvimento são apresentadas por meio de vídeos gravados por mim.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Infelizmente, nem tudo pode ser simplificado ao extremo. Para testar alguns macros ou bots, será necessário disponibilizar um ambiente com o problema que o macro resolverá. O mesmo vale para os vídeos, que podem durar de 10 minutos a 1 ou 2 horas, dependendo da complexidade do código e do tempo necessário para explicá-lo detalhadamente.
 
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+<p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
 
-### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+### Desenvolvido com:
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+Nesta seção estão as tecnologias que usei para desenvolver o site.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+* [Bootstrap](https://getbootstrap.com)
+* [Django](https://www.djangoproject.com)
+* [Vercel](https://vercel.com)
+* [Figma](https://figma.com)
+* [Python](https://www.python.org)
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+
+
+<p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Introdução
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Caso queira pegar os arquivos do projeto para rolar localmente, siga as instruções abaixo.
 
-### Prerequisites
+### Pré-requesitos
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Estando na pasta do projeto (\Portfólio), você instalará todos os requisitos com este comando:
+* Instalando dependências contidas no requirements.txt:
   ```sh
-  npm install npm@latest -g
+  pip install -r requirements.txt
   ```
+  
+* Após a instalação das dependências, você precisará ativar a venv:
+  ```sh
+  cd venv/Scripts
+  ```
+  Se o terminal for PowerShell:
+  ```sh
+  Activate.ps1
+  ```
+  Se o terminal for Prompt de Comandos:
+  ```sh
+  activate
+  ```
+* Com a venv ativada, retorne ao endereço principal do projeto e dê o runserver:
+```sh
+  cd..
+  ```
+```sh
+  cd..
+  ```
+```sh
+  py manage.py runserver
+  ```
+* E pronto, agora é só abrir a url no navegador
 
 ### Installation
 
@@ -149,91 +179,81 @@ _Below is an example of how you can instruct your audience on installing and set
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Uso
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Se você é um desenvolvedor e deseja utilizar meu projeto como um template para o seu portfólio, sinta-se à vontade para fazê-lo. Todos os softwares listados na aba "Macro" do site estão disponíveis para uso. Caso precise de um software personalizado ou de ajustes específicos nos já disponíveis, não hesite em me contatar pelo e-mail ou WhatsApp.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Readme detalhado para ser atualizado constantemente
+- [ ] Responsividade
+- [ ] Componentização
+- [x] Hospedar site em produção
+- [x] Design no figma
+- [ ] Aba macros
+- [ ] Explicação dos projetos desenvolvidos
+- [ ] Documentação no codigo-fonte
+- [ ] Site 100% pronto para monitor 1920x1080
+- [ ] Suporte multi-língua
+    - [x] Português-Brasil
+    - [ ] English
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribuição
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Embora eu tenha desenvolvido todo o conteúdo do projeto, incluindo o design, é importante reconhecer que o site só foi possível graças aos designers que disponibilizam templates gratuitos e abertos ao público na aba de comunidade do Figma, como:
+*Oyindamola
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Se você tiver qualquer observação sobre o site ou sugestões de melhorias, ficarei feliz em ouvir sua opinião. Não hesite em me contatar — seu nome será devidamente reconhecido aqui!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
 
 
 <!-- LICENSE -->
-## License
+## Licença
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Não tem, isso aqui é apenas uma questão de boas praticas
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
 
 
 <!-- CONTACT -->
-## Contact
+## Contato
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Ryan do Nascimento Bezerra - [ryan-nascimento-bezerra](https://www.linkedin.com/in/ryan-nascimento-bezerra/) - ryandonascimentobezerra@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Agradecimentos
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Alguns recursos uteis que eu gostaria de agradecer
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Documentação do bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+* [Figma template portfólio](https://www.figma.com/design/JQBde0k47aMgwA1MzeOLwy/Portfolio-(Community)?node-id=0-1&t=1OxN6tJ80EGuMrlO-0)
+* [Vercel para hospedagem gratuita](https://vercel.com)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
 
 

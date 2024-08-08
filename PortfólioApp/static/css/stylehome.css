@@ -190,7 +190,7 @@ body > div:first-of-type p {
         --bs-btn-font-size: 1.5rem;
     }
     #sobre {
-        font-size: 5rem;
+        font-size: 4rem;
     }
     #apresentação {
         font-size: 1.5rem;
@@ -204,5 +204,10 @@ body > div:first-of-type p {
     }
     #circulosp {
         font-size: 1.2rem;
+    }  
+    .custom-small-text {
+        font-size: 2rem; /* Ou o tamanho que desejar */
     }
+    
 }
+

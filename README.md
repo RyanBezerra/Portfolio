@@ -203,7 +203,7 @@ Se você é um desenvolvedor e deseja utilizar meu projeto como um template para
 - [ ] Aba macros
 - [ ] Explicação dos projetos desenvolvidos
 - [ ] Documentação no codigo-fonte
-- [ ] Site 100% pronto para monitor 1920x1080
+- [x] Site 100% pronto para monitor 1920x1080
 - [ ] Suporte multi-língua
     - [x] Português-Brasil
     - [ ] English

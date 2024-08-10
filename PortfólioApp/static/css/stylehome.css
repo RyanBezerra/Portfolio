@@ -124,6 +124,9 @@ body > div:first-of-type p {
     #circulosp {
         font-size: 1.2rem;
     }
+    .responsive-svg {
+        width: 80vw; /* Ajusta a largura para telas menores */
+    }
 }
 @media (min-width: 769px) and (max-width: 1024px) {
     body > div:first-of-type h1 {
@@ -154,7 +157,7 @@ body > div:first-of-type p {
     }
     #circuloss1 {
         margin-top: 8rem;
-        gap: 10rem;
+        gap: 1rem;
     }
     #circulos {
         max-width: 6rem;
@@ -162,10 +165,63 @@ body > div:first-of-type p {
     #circulosp {
         font-size: 1.2rem;
     }
+    .responsive-svg {
+        width: 80vw; /* Ajusta a largura para telas menores */
+    }
 }
-@media (min-width: 1025px) {
+@media (min-width: 1025px) and (max-width: 1440px) {
     body > div:first-of-type h1 {
-        font-size: 5rem; /* Ajuste para telas grandes */
+        font-size: 5rem; 
+    }
+    body > div:first-of-type p {
+        font-size: 2.4rem;
+    }
+    .btn-lg {
+        font-size: 3rem;
+        padding: 1.4rem 5rem;
+    }
+    #custom-img-border {
+        width: 50rem;
+        height: 50rem;
+        margin-left: 0rem;
+    }
+    #botãobaixar {
+        --bs-btn-padding-y: 0.7rem;
+        --bs-btn-padding-x: 2.5rem;
+        --bs-btn-font-size: 1.5rem;
+    }
+    #botãolermais {
+        --bs-btn-padding-y: 0.7rem;
+        --bs-btn-padding-x: 2.5rem;
+        --bs-btn-font-size: 1.5rem;
+    }
+    #sobre {
+        font-size: 4rem;
+    }
+    #apresentação {
+        font-size: 1.5rem;
+    }
+    #circuloss1 {
+        margin-top: 8rem;
+        gap: 10rem;
+    }
+    #circulos {
+        max-width: 6rem;
+    }
+    #circulosp {
+        font-size: 1.2rem;
+    }  
+    .custom-small-text {
+        font-size: 2rem; 
+    }
+    .responsive-svg {
+        width: 70vw; /* Ajusta a largura para telas menores */
+    }
+    
+}
+@media (min-width: 1441px) {
+    body > div:first-of-type h1 {
+        font-size: 5rem; 
     }
     body > div:first-of-type p {
         font-size: 2.4rem;
@@ -206,7 +262,10 @@ body > div:first-of-type p {
         font-size: 1.2rem;
     }  
     .custom-small-text {
-        font-size: 2rem; /* Ou o tamanho que desejar */
+        font-size: 2rem; 
+    }
+    .responsive-svg {
+        width: 50vw; /* Ajusta a largura para telas menores */
     }
     
 }

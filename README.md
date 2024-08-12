@@ -161,7 +161,7 @@ Estando na pasta do projeto (\Portfólio), você instalará todos os requisitos 
   ```
 * E pronto, agora é só abrir a url no navegador
 
-### Installation
+### Instalação
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 

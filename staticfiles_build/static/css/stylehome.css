@@ -54,6 +54,8 @@ body > div:first-of-type p {
     #custom-img-border {
         width: 20rem;
         height: 20rem;
+        display: none;
+        
     }
     #botãobaixar {
         --bs-btn-padding-y: 0.2rem;
@@ -70,7 +72,7 @@ body > div:first-of-type p {
         --bs-btn-padding-x: 1.1rem;
         --bs-btn-font-size: 1.1rem;
     }
-    #sobre {
+    #titulo {
         font-size: 3rem;
     }
     #apresentação {
@@ -173,8 +175,11 @@ body > div:first-of-type p {
         --bs-btn-padding-x: 1.9rem;
         --bs-btn-font-size: 1.5rem;
     }
-    #sobre {
-        font-size: 3rem;
+    #cordialidade{
+        font-size: 2.5rem;
+    }
+    #titulo {
+        font-size: 2.5rem;
     }
     #apresentação {
         font-size: 1.5rem;
@@ -190,7 +195,7 @@ body > div:first-of-type p {
         font-size: 1.2rem;
     }
     .responsive-svg {
-        width: 80vw; /* Ajusta a largura para telas menores */
+        width: 80vw; 
     }
     .custom-small-text {
         font-size: 2rem;
@@ -266,7 +271,7 @@ body > div:first-of-type p {
         --bs-btn-padding-x: 2.5rem;
         --bs-btn-font-size: 1.5rem;
     }
-    #sobre {
+    #titulo {
         font-size: 5rem;
     }
     #apresentação {
@@ -323,7 +328,7 @@ body > div:first-of-type p {
         --bs-btn-padding-x: 2.5rem;
         --bs-btn-font-size: 1.5rem;
     }
-    #sobre {
+    #titulo {
         font-size: 4rem;
     }
     #apresentação {
@@ -338,16 +343,52 @@ body > div:first-of-type p {
     }
     #circulosp {
         font-size: 1.2rem;
-    }  
+    }
+    #cordialidade{
+        font-size: 4rem;
+        padding-right: 15rem;
+    }   
     .custom-small-text {
         font-size: 2rem; 
     }
     .responsive-svg {
         width: 70vw; /* Ajusta a largura para telas menores */
     }
+    #nome{
+        margin-left: 8rem;
+    }
+    #sobrenome{
+        margin-left: 8rem;
+    }
+    #telefone {
+        margin-left: 2rem;
+    }
+    #email {
+        margin-left: 2rem;
+    }
+    #nomesvg {
+        margin-top: -4rem;
+        margin-left: 8rem;
+        width: 80%;
+    }
+    #sobrenomesvg {
+        margin-top: -4rem;
+        margin-left: 8rem;
+        width: 80%;
+    }
+    #emailsvg {
+        margin-top: -4rem;
+        margin-left: 2rem;
+        width: 80%;
+    }
+    #telefonesvg {
+        margin-top: -4rem;
+        margin-left: 2rem;
+        width: 80%;
+    }
     #mensagem {
         position: relative; 
-        left: 0rem; 
+        left: 1rem; 
         right: 4.5rem;
         top: 2rem;
     }
@@ -385,12 +426,17 @@ body > div:first-of-type p {
         --bs-btn-padding-x: 2.5rem;
         --bs-btn-font-size: 1.5rem;
     }
+    #botãoenviar {
+        --bs-btn-padding-y: 0.7rem;
+        --bs-btn-padding-x: 2.5rem;
+        --bs-btn-font-size: 1.5rem;
+    }
     #botãolermais {
         --bs-btn-padding-y: 0.7rem;
         --bs-btn-padding-x: 2.5rem;
         --bs-btn-font-size: 1.5rem;
     }
-    #sobre {
+    #titulo {
         font-size: 4rem;
     }
     #apresentação {
@@ -405,16 +451,52 @@ body > div:first-of-type p {
     }
     #circulosp {
         font-size: 1.2rem;
+    }
+    #cordialidade{
+        font-size: 4rem;
+        padding-right: 15rem;
     }  
     .custom-small-text {
         font-size: 2rem; 
     }
     .responsive-svg {
-        width: 50vw; /* Ajusta a largura para telas menores */
+        width: 50vw; 
+    }
+    #nome{
+        margin-left: 8rem;
+    }
+    #sobrenome{
+        margin-left: 8rem;
+    }
+    #telefone {
+        margin-left: 2rem;
+    }
+    #email {
+        margin-left: 2rem;
+    }
+    #nomesvg {
+        margin-top: -4rem;
+        margin-left: 8rem;
+        width: 80%;
+    }
+    #sobrenomesvg {
+        margin-top: -4rem;
+        margin-left: 8rem;
+        width: 80%;
+    }
+    #emailsvg {
+        margin-top: -4rem;
+        margin-left: 2rem;
+        width: 80%;
+    }
+    #telefonesvg {
+        margin-top: -4rem;
+        margin-left: 2rem;
+        width: 80%;
     }
     #mensagem {
         position: relative; 
-        left: 0rem; 
+        left: 1rem; 
         right: 4.5rem;
         top: 2rem;
     }

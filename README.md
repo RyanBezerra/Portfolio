@@ -196,7 +196,7 @@ Se você é um desenvolvedor e deseja utilizar meu projeto como um template para
 ## Roadmap
 
 - [x] Readme detalhado para ser atualizado constantemente
-- [ ] Responsividade
+- [X] Responsividade
 - [ ] Componentização
 - [x] Hospedar site em produção
 - [x] Design no figma

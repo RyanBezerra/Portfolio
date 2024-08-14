@@ -58,7 +58,9 @@
                     <h1 id="cordialidade" class="text-light mb-2">Olá, sou Ryan do Nascimento Bezerra</h1>
                     <p class="mb-3 fs-2">Desenvolvedor Front-End</p>
                     <div class="d-flex flex-row justify-content-center justify-content-md-start mt-3">
-                        <button id="botãobaixar" class="btn btn-success btn-lg rounded-0">Baixar CV</button>
+                        <a href="{% static 'arquivos/Curriculo.pdf' %}" download>
+                            <button id="botãobaixar" class="btn btn-success btn-lg rounded-0">Baixar CV</button>
+                        </a>                        
                         <button id="botãolermais" class="btn btn-outline-light btn-lg mx-2 rounded-0">Ler mais</button>
                     </div>
                 </div>

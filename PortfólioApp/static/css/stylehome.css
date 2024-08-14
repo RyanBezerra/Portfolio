@@ -90,7 +90,7 @@ body > div:first-of-type p {
         font-size: 0.5rem;
     }
     .responsive-svg {
-        width: 100vw; /* Ajusta a largura para telas menores */
+        width: 100vw; 
     }
     .custom-small-text {
         font-size: 1.5rem;
@@ -147,7 +147,7 @@ body > div:first-of-type p {
 }
 @media (min-width: 577px) and (max-width: 768px) {
     body > div:first-of-type h1 {
-        font-size: 2.2rem; /* Ajuste para telas pequenas a médias */
+        font-size: 2.2rem; 
     }
     body > div:first-of-type p {
         font-size: 1.1rem;
@@ -253,7 +253,7 @@ body > div:first-of-type p {
 }
 @media (min-width: 769px) and (max-width: 1024px) {
     body > div:first-of-type h1 {
-        font-size: 5rem; /* Ajuste para telas médias a grandes */
+        font-size: 5rem;
     }
     body > div:first-of-type p {
         font-size: 2.4rem;
@@ -294,7 +294,7 @@ body > div:first-of-type p {
         font-size: 1.2rem;
     }
     .responsive-svg {
-        width: 80vw; /* Ajusta a largura para telas menores */
+        width: 80vw; 
     }
     .custom-small-text {
         font-size: 2rem; 
@@ -398,7 +398,7 @@ body > div:first-of-type p {
         font-size: 2rem; 
     }
     .responsive-svg {
-        width: 70vw; /* Ajusta a largura para telas menores */
+        width: 70vw; 
     }
     #nome{
         margin-left: 8rem;

@@ -272,6 +272,11 @@ body > div:first-of-type p {
         --bs-btn-padding-x: 2.5rem;
         --bs-btn-font-size: 1.5rem;
     }
+    #botãoenviar {
+        --bs-btn-padding-y: 0.7rem;
+        --bs-btn-padding-x: 2.5rem;
+        --bs-btn-font-size: 1.5rem;
+    }
     #titulo {
         font-size: 5rem;
     }
@@ -290,6 +295,41 @@ body > div:first-of-type p {
     }
     .responsive-svg {
         width: 80vw; /* Ajusta a largura para telas menores */
+    }
+    .custom-small-text {
+        font-size: 2rem; 
+    }
+    #nome{
+        margin-left: 8rem;
+    }
+    #sobrenome{
+        margin-left: 8rem;
+    }
+    #telefone {
+        margin-left: 2rem;
+    }
+    #email {
+        margin-left: 2rem;
+    }
+    #nomesvg {
+        margin-top: -4rem;
+        margin-left: 8rem;
+        width: 80%;
+    }
+    #sobrenomesvg {
+        margin-top: -4rem;
+        margin-left: 8rem;
+        width: 80%;
+    }
+    #emailsvg {
+        margin-top: -4rem;
+        margin-left: 2rem;
+        width: 80%;
+    }
+    #telefonesvg {
+        margin-top: -4rem;
+        margin-left: 2rem;
+        width: 80%;
     }
     #mensagemsvg{
         padding-left: 1rem; 
@@ -325,6 +365,11 @@ body > div:first-of-type p {
         --bs-btn-font-size: 1.5rem;
     }
     #botãolermais {
+        --bs-btn-padding-y: 0.7rem;
+        --bs-btn-padding-x: 2.5rem;
+        --bs-btn-font-size: 1.5rem;
+    }
+    #botãoenviar {
         --bs-btn-padding-y: 0.7rem;
         --bs-btn-padding-x: 2.5rem;
         --bs-btn-font-size: 1.5rem;

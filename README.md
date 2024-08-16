@@ -202,6 +202,7 @@ Se você é um desenvolvedor e deseja utilizar meu projeto como um template para
 - [x] Design no figma
 - [ ] Aba macros
 - [ ] Explicação dos projetos desenvolvidos
+- [ ] Área contato está enviando email com os dados
 - [ ] Documentação no codigo-fonte
 - [x] Todos os componentes estão com as suas devidas funcionalidades
 - [ ] Suporte multi-língua

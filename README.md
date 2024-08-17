@@ -202,8 +202,9 @@ Se você é um desenvolvedor e deseja utilizar meu projeto como um template para
 - [x] Design no figma
 - [ ] Aba macros
 - [ ] Explicação dos projetos desenvolvidos
+- [ ] Área contato está enviando email com os dados
 - [ ] Documentação no codigo-fonte
-- [x] Site 100% pronto para monitor 1920x1080
+- [x] Todos os componentes estão com as suas devidas funcionalidades
 - [ ] Suporte multi-língua
     - [x] Português-Brasil
     - [ ] English

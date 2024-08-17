@@ -23,6 +23,7 @@ from PortfólioApp import views
 urlpatterns = [
     path('Home-Page/', views.Home, name='Home'),
     path('', views.Home, name='home'),
+    path('send-email/', views.send_email, name='send_email'),  # Adicione esta linha
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 
 

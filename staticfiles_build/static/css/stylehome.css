@@ -92,40 +92,43 @@ body > div:first-of-type p {
     .responsive-svg {
         width: 100vw; 
     }
+    #primeiroprojeto{
+        font-size: 5rem;
+    }
     .custom-small-text {
         font-size: 1.5rem;
     }
     #nome{
-        margin-left: 4rem;
+        margin-left: -1rem;
     }
     #sobrenome{
-        margin-left: 4rem;
+        margin-left: -1rem;
     }
     #telefone {
-        margin-left: 2rem;
+        margin-left: 1rem;
     }
     #email {
-        margin-left: 2rem;
+        margin-left: 1rem;
     }
     #nomesvg {
         margin-top: -4rem;
-        margin-left: 4rem;
-        width: 80%;
+        margin-left: -1rem;
+        width: 140%;
     }
     #sobrenomesvg {
         margin-top: -4rem;
-        margin-left: 4rem;
-        width: 80%;
+        margin-left: -1rem;
+        width: 140%;
     }
     #emailsvg {
         margin-top: -4rem;
-        margin-left: 2rem;
-        width: 80%;
+        margin-left: 1rem;
+        width: 140%;
     }
     #telefonesvg {
         margin-top: -4rem;
-        margin-left: 2rem;
-        width: 80%;
+        margin-left: 1rem;
+        width: 140%;
     }
     #mensagem {
         position: relative; 

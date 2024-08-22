@@ -65,13 +65,13 @@
     <li>
       <a href="#Sobre-o-Projeto">Sobre o Projeto</a>
       <ul>
-        <li><a href="#esenvolvido-com:">Desenvolvido com:</a></li>
+        <li><a href="#Desenvolvido-com:">Desenvolvido com:</a></li>
       </ul>
     </li>
     <li>
       <a href="#Introdução">Introdução</a>
       <ul>
-        <li><a href="#prerequisites">Instalação</a></li>
+        <li><a href="#Instalação">Instalação</a></li>
       </ul>
     </li>
     <li><a href="#Uso">Uso</a></li>

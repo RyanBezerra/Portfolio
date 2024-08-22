@@ -106,15 +106,10 @@ Pontos importantes:
 
 Nesta seção estão as tecnologias que usei para desenvolver o site.
 
-
-* [Bootstrap](https://getbootstrap.com)
-* [Django](https://www.djangoproject.com)
-* [Vercel](https://vercel.com)
-* [Figma](https://figma.com)
 * [Python](https://www.python.org)
-* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
+* [Django REST framework]([https://www.djangoproject.com](https://www.django-rest-framework.org)
+* [Vercel](https://vercel.com)
+* [Git](https://git-scm.com)
 
 
 <p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>

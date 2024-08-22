@@ -107,7 +107,7 @@ Pontos importantes:
 Nesta seção estão as tecnologias que usei para desenvolver o site.
 
 * [Python](https://www.python.org)
-* [Django REST framework]([https://www.djangoproject.com](https://www.django-rest-framework.org)
+* [Django REST framework](https://www.django-rest-framework.org)
 * [Vercel](https://vercel.com)
 * [Git](https://git-scm.com)
 

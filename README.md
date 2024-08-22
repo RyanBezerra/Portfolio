@@ -48,7 +48,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Documentação Portfólio</h3>
+  <h3 align="center">Documentação Workshop Back-End Fábrica de Software 2024.2</h3>
 
   <p align="center">
     Um portfólio que apresenta os softwares mais significativos que desenvolvi, acompanhado de explicações detalhadas sobre o processo de desenvolvimento de cada um.

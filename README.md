@@ -159,28 +159,17 @@ Começe a instalação das depencias estando na pasta (\workshop-fabrica-2024.2)
 <!-- USAGE EXAMPLES -->
 ## Uso
 
-Se você é um desenvolvedor e deseja utilizar meu projeto como um template para o seu portfólio, sinta-se à vontade para fazê-lo. Todos os softwares listados na aba "Macro" do site estão disponíveis para uso. Caso precise de um software personalizado ou de ajustes específicos nos já disponíveis, não hesite em me contatar pelo e-mail ou WhatsApp.
+Se você é um desenvolvedor e deseja utilizar meu projeto como um template para desenvolver a sua API, sinta-se à vontade.
 
 <p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Planejamento
 
-- [x] Readme detalhado para ser atualizado constantemente
-- [X] Responsividade
-- [ ] Componentização
-- [x] Hospedar site em produção
-- [x] Design no figma
-- [ ] Aba macros
-- [ ] Explicação dos projetos desenvolvidos
-- [ ] Área contato está enviando email com os dados
-- [ ] Documentação no codigo-fonte
-- [x] Todos os componentes estão com as suas devidas funcionalidades
-- [ ] Suporte multi-língua
-    - [x] Português-Brasil
-    - [ ] English
+- [x] Criar api com DjangoREST
+- [ ] Desafio resolvido
 
 <p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
@@ -189,10 +178,7 @@ Se você é um desenvolvedor e deseja utilizar meu projeto como um template para
 <!-- CONTRIBUTING -->
 ## Contribuição
 
-Embora eu tenha desenvolvido todo o conteúdo do projeto, incluindo o design, é importante reconhecer que o site só foi possível graças aos designers que disponibilizam templates gratuitos e abertos ao público na aba de comunidade do Figma, como:
-*Oyindamola
-
-Se você tiver qualquer observação sobre o site ou sugestões de melhorias, ficarei feliz em ouvir sua opinião. Não hesite em me contatar — seu nome será devidamente reconhecido aqui!
+Se você tiver qualquer observação sobre a api ou sugestões de melhorias, ficarei feliz em ouvir sua opinião. Não hesite em me contatar — seu nome será devidamente reconhecido aqui!
 
 <p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
@@ -210,9 +196,8 @@ Não tem, isso aqui é apenas uma questão de boas praticas
 <!-- CONTACT -->
 ## Contato
 
-Ryan do Nascimento Bezerra - [ryan-nascimento-bezerra](https://www.linkedin.com/in/ryan-nascimento-bezerra/) - ryandonascimentobezerra@gmail.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+LinkedIn - [ryan-nascimento-bezerra](https://www.linkedin.com/in/ryan-nascimento-bezerra/) 
+Gmail - ryandonascimentobezerra@gmail.com
 
 <p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 

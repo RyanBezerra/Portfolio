@@ -65,7 +65,7 @@
     <li>
       <a href="#Sobre-o-Projeto">Sobre o Projeto</a>
       <ul>
-        <li><a href="#Desenvolvido-com:">Desenvolvido com:</a></li>
+        <li><a href="#Tecnologias-Utilizadas">Tecnologias Utilizadas</a></li>
       </ul>
     </li>
     <li>
@@ -98,7 +98,7 @@ Pontos importantes:
 
 
 
-### Desenvolvido com:
+### Tecnologias Utilizadas
 
 Nesta seção estão as tecnologias que usei para desenvolver a API.
 
@@ -135,21 +135,21 @@ Começe a instalação das depencias estando na pasta (\workshop-fabrica-2024.2)
   pip install -r requirements.txt
   ```
 * Com a venv ativada, retorne ao endereço principal do projeto, execute as migrações e dê runserver:
-```sh
-  cd..
-  ```
-```sh
-  cd..
-  ```
-```sh
-  py manage.py makemigrations
-  ```
-```sh
-  py manage.py migrate
-  ```
-```sh
-  py manage.py runserver
-  ```
+  ```sh
+    cd..
+    ```
+  ```sh
+    cd..
+    ```
+  ```sh
+    py manage.py makemigrations
+    ```
+  ```sh
+    py manage.py migrate
+    ```
+  ```sh
+    py manage.py runserver
+    ```
 * E pronto, agora é só abrir a url http://127.0.0.1:8000/
 
 <p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>

@@ -65,7 +65,7 @@
     <li>
       <a href="#Sobre-o-Projeto">Sobre o Projeto</a>
       <ul>
-        <li><a href="#built-with">Desenvolvido com:</a></li>
+        <li><a href="#esenvolvido-com:">Desenvolvido com:</a></li>
       </ul>
     </li>
     <li>
@@ -76,10 +76,10 @@
     </li>
     <li><a href="#Uso">Uso</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contribuição</a></li>
-    <li><a href="#license">Licença</a></li>
-    <li><a href="#contact">Contato</a></li>
-    <li><a href="#acknowledgments">Agradecimentos</a></li>
+    <li><a href="#Contribuição">Contribuição</a></li>
+    <li><a href="#Licença">Licença</a></li>
+    <li><a href="#Contato">Contato</a></li>
+    <li><a href="#Agradecimentos">Agradecimentos</a></li>
   </ol>
 </details>
 

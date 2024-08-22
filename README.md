@@ -92,14 +92,11 @@
 [![image](https://github.com/user-attachments/assets/9e2800a8-1676-4c1b-a64e-2b3ed1a09565
 )](https://portfolio-git-main-ryans-projects-da8a15f6.vercel.app)
 
-Este é o meu site de portfólio pessoal, desenvolvido com o propósito de facilitar o meu marketing pessoal.
+Essa foi a API que desenvolvi para o desafio do workshop back-end.
 
 Pontos importantes:
-* No site, estão centralizados os principais projetos que desenvolvi, juntamente com explicações detalhadas sobre seu funcionamento e desenvolvimento.
-* Se desejar baixar algum projeto do site, sua execução será da forma mais simples possível: um executável. Não será necessário instalar bibliotecas nem digitar linhas de comando no terminal, basta baixar e executar.
-* As explicações sobre funcionalidade e desenvolvimento são apresentadas por meio de vídeos gravados por mim.
 
-Infelizmente, nem tudo pode ser simplificado ao extremo. Para testar alguns macros ou bots, será necessário disponibilizar um ambiente com o problema que o macro resolverá. O mesmo vale para os vídeos, que podem durar de 10 minutos a 1 ou 2 horas, dependendo da complexidade do código e do tempo necessário para explicá-lo detalhadamente.
+* 
 
 <p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 

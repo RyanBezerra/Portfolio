@@ -25,16 +25,16 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[contributors-shield]: https://img.shields.io/github/contributors/RyanBezerra/Portfolio.svg
-[contributors-url]: https://github.com/RyanBezerra/Portfolio/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/RyanBezerra/Portfolio.svg
-[forks-url]: https://github.com/RyanBezerra/Portfolio/network/members
-[stars-shield]: https://img.shields.io/github/stars/RyanBezerra/Portfolio.svg
-[stars-url]: https://github.com/RyanBezerra/Portfolio/stargazers
-[issues-shield]: https://img.shields.io/github/issues/RyanBezerra/Portfolio.svg
-[issues-url]: https://github.com/RyanBezerra/Portfolio/issues
-[license-shield]: https://img.shields.io/github/license/RyanBezerra/Portfolio.svg
-[license-url]: https://github.com/RyanBezerra/Portfolio/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/RyanBezerra/workshop-fabrica-2024.2.svg
+[contributors-url]: https://github.com/RyanBezerra/workshop-fabrica-2024.2/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/RyanBezerra/workshop-fabrica-2024.2.svg
+[forks-url]: https://github.com/RyanBezerra/workshop-fabrica-2024.2/network/members
+[stars-shield]: https://img.shields.io/github/stars/RyanBezerra/workshop-fabrica-2024.2.svg
+[stars-url]: https://github.com/RyanBezerra/workshop-fabrica-2024.2/stargazers
+[issues-shield]: https://img.shields.io/github/issues/RyanBezerra/workshop-fabrica-2024.2.svg
+[issues-url]: https://github.com/RyanBezerra/workshop-fabrica-2024.2/issues
+[license-shield]: https://img.shields.io/github/license/RyanBezerra/workshop-fabrica-2024.2.svg
+[license-url]: https://github.com/RyanBezerra/workshop-fabrica-2024.2/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-RyanBezerra-blue
 [linkedin-url]: https://www.linkedin.com/in/ryan-nascimento-bezerra/
 

@@ -17,11 +17,5 @@ class Jogos(models.Model):
             MaxValueValidator(10.0)
         ]
     )
-    Média_Horas_Jogando = models.DecimalField(
-        max_digits=5, 
-        decimal_places=0,
-        validators=[
-            MinValueValidator(0)
-        ]
-    )
+    Média_Horas_Jogando = models.CharField(max_length=255)
 

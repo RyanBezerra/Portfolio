@@ -74,7 +74,7 @@
         <li><a href="#prerequisites">Instalação</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Uso</a></li>
+    <li><a href="#Uso">Uso</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contribuição</a></li>
     <li><a href="#license">Licença</a></li>

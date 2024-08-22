@@ -69,7 +69,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Introdução</a>
+      <a href="#Introdução">Introdução</a>
       <ul>
         <li><a href="#prerequisites">Instalação</a></li>
       </ul>

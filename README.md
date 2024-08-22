@@ -51,7 +51,7 @@
   <h3 align="center">Documentação Workshop Back-End Fábrica de Software 2024.2</h3>
 
   <p align="center">
-    Um portfólio que apresenta os softwares mais significativos que desenvolvi, acompanhado de explicações detalhadas sobre o processo de desenvolvimento de cada um.
+    Contém todas as atividades passadas para mim, um estudo pessoal criando uma api com Django REST e o desafio final
     <br />
   </p>
 </div>

@@ -71,8 +71,7 @@
     <li>
       <a href="#getting-started">Introdução</a>
       <ul>
-        <li><a href="#prerequisites">Pré-requesitos</a></li>
-        <li><a href="#installation">Instalação</a></li>
+        <li><a href="#prerequisites">Instalação</a></li>
       </ul>
     </li>
     <li><a href="#usage">Uso</a></li>
@@ -104,7 +103,7 @@ Pontos importantes:
 
 ### Desenvolvido com:
 
-Nesta seção estão as tecnologias que usei para desenvolver o site.
+Nesta seção estão as tecnologias que usei para desenvolver a API.
 
 * [Python](https://www.python.org)
 * [Django REST framework](https://www.django-rest-framework.org)
@@ -121,15 +120,14 @@ Nesta seção estão as tecnologias que usei para desenvolver o site.
 
 Caso queira pegar os arquivos do projeto para rolar localmente, siga as instruções abaixo.
 
-### Pré-requesitos
+### Instalação e execução
 
-Estando na pasta do projeto (\Portfólio), você instalará todos os requisitos com este comando:
-* Instalando dependências contidas no requirements.txt:
+Começe a instalação das depencias estando na pasta (\workshop-fabrica-2024.2):
+
+* Crie uma venv e ative ela:
   ```sh
-  pip install -r requirements.txt
+  python -m venv venv
   ```
-  
-* Após a instalação das dependências, você precisará ativar a venv:
   ```sh
   cd venv/Scripts
   ```
@@ -141,35 +139,28 @@ Estando na pasta do projeto (\Portfólio), você instalará todos os requisitos 
   ```sh
   activate
   ```
-* Com a venv ativada, retorne ao endereço principal do projeto e dê o runserver:
+  
+* Após ativar a venv, instale as dependencias:
+  ```sh
+  pip install -r requirements.txt
+  ```
+* Com a venv ativada, retorne ao endereço principal do projeto, execute as migrações e dê runserver:
 ```sh
   cd..
   ```
 ```sh
   cd..
+  ```
+```sh
+  py manage.py makemigrations
+  ```
+```sh
+  py manage.py migrate
   ```
 ```sh
   py manage.py runserver
   ```
-* E pronto, agora é só abrir a url no navegador
-
-### Instalação
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+* E pronto, agora é só abrir a url http://127.0.0.1:8000/
 
 <p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 

@@ -69,10 +69,7 @@
       </ul>
     </li>
     <li>
-      <a href="#Introdução">Introdução</a>
-      <ul>
-        <li><a href="#Instalação">Instalação</a></li>
-      </ul>
+      <a href="#Instalação-e-Execução">Instalação e Execução</a>
     </li>
     <li><a href="#Uso">Uso</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -113,14 +110,7 @@ Nesta seção estão as tecnologias que usei para desenvolver a API.
 
 <p align="right">(<a href="#readme-top">Volte para o topo</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
-## Introdução
-
-Caso queira pegar os arquivos do projeto para rolar localmente, siga as instruções abaixo.
-
-### Instalação e execução
+### Instalação e Execução
 
 Começe a instalação das depencias estando na pasta (\workshop-fabrica-2024.2):
 

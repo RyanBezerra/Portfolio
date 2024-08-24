@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IBGE</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{% static 'CSS/Agregados.css' %}">
+    <script>
+        async function fetchData() {
+            const parameter = document.getElementById('parameter').value;
+            const url = `https://servicodados.ibge.gov.br/api/v3/agregados?assunto=${parameter}`;
+
+            try {
+                const response = await fetch(url);
+                if (!response.ok) {
+                    throw new Error(`HTTP status ${response.status}`);
+                }
+                const data = await response.json();
+                document.getElementById('result').innerText = JSON.stringify(data, null, 2);
+            } catch (error) {
+                document.getElementById('result').innerText = `Erro: ${error.message}`;
+            }
+        }
+    </script>
+</head>
+<header></header>
+<body>
+    <div class="container mt-4">
+        <h1>Consulta API IBGE Agregados</h1>
+        <div class="form-group">
+            <label for="parameter">Assunto (exemplo: 70):</label>
+            <input type="text" id="parameter" class="form-control" placeholder="Digite o ID do assunto" value="70">
+        </div>
+        <button class="btn btn-primary" onclick="fetchData()">Buscar Dados</button>
+        <pre id="result" class="mt-4"></pre>
+    </div>
+</body>
+</html>

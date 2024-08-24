@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Menu Detail</title>
+</head>
+<body>
+    <h1>{{ menu.nome }}</h1>
+    <p>Idade: {{ menu.idade }}</p>
+    <p>Sexo: {{ menu.sexo }}</p>
+
+    <!-- Exibindo a frequência do nome no período de 2000 a 2010 -->
+    <h2>Frequência do Nome no Período de 2000 a 2010</h2>
+    {% if frequencia_2000_2010 %}
+        <p>Frequência: {{ frequencia_2000_2010 }}</p>
+    {% else %}
+        <p>{{ frequencia_2000_2010 }}</p>
+    {% endif %}
+
+    <a href="{% url 'menu_update' menu.pk %}">Edit</a>
+    <a href="{% url 'menu_list' %}">Back to List</a>
+</body>
+</html>
+
+
